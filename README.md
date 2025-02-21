@@ -23,8 +23,8 @@ I have completed the several steps :
 - Tranform and design the table and used the pivot table
 - I have generated the insights and visualization throught pivot table.
 - I have crafted the charts - 3-D Column,bar,stacked bar, clustered bar, line , 3-D pie charts.
+- I have utilized the Business sales presentation Template
   
-**Presentation**
-I have utilized the Business sales presentation Template
+**Conclusions**
 I have provided the key insights and visualization charts which can help the business and key stakeholders.
 
