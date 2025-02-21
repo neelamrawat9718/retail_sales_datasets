@@ -16,7 +16,7 @@
 
 *Tools*- Excel and PPT
 
-**Project Highlights**
+**Project Highlights**-
 I have picked the data source from Kaggle.com and I have transform the CSV file into excel.
 I have completed the several steps :
 - Checked the duplicates- No duplicate value founded.
@@ -25,6 +25,6 @@ I have completed the several steps :
 - I have crafted the charts - 3-D Column,bar,stacked bar, clustered bar, line , 3-D pie charts.
 - I have utilized the Business sales presentation Template
   
-**Conclusions**
+**Conclusions**-
 I have provided the key insights and visualization charts which can help the business and key stakeholders.
 
